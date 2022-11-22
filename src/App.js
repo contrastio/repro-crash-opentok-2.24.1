@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import OT from '@opentok/client'
+
 function App() {
   return (
     <div className="App">

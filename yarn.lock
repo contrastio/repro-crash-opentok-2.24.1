@@ -1557,6 +1557,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@opentok/client@^2.24.1":
+  version "2.24.1"
+  resolved "https://registry.yarnpkg.com/@opentok/client/-/client-2.24.1.tgz#77630fb17b990856cf473cae8631cb982f1040d4"
+  integrity sha512-Md1TtXsyqv7pUxE6+NfEbUoDGdiwghemyGqnpe3pj6wc5rG4GHL5ENh/zx5D5wcTDHNvXZjIA8o2bHdlc9HGRQ==
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.3":
   version "0.5.9"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.9.tgz#35aae6624a6270ca7ad755800b7eec417fa6f830"
